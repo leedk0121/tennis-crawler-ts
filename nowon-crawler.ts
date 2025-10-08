@@ -338,8 +338,8 @@ class NowonCrawler {
 async function main() {
   const crawler = new NowonCrawler();
 
-  const username = "leedk0121";  // 🔴 변경 필요
-  const password = "dookoung1!!";  // 🔴 변경 필요
+  const username = "user_name";  // 🔴 변경 필요
+  const password = "user_pass";  // 🔴 변경 필요
 
   const loginSuccess = await crawler.login(username, password);
   if (!loginSuccess) {

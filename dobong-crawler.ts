@@ -282,8 +282,8 @@ async function main() {
   const crawler = new TennisCourtCrawler();
   
   // 여기에 실제 아이디/비밀번호 입력
-  const username = "leedk0121";  // 🔴 변경 필요
-  const password = "dookoung1!!";  // 🔴 변경 필요
+  const username = "user_name";  // 🔴 변경 필요
+  const password = "user_pass";  // 🔴 변경 필요
   
   const loginSuccess = await crawler.login(username, password);
   if (!loginSuccess) {
