@@ -1,0 +1,317 @@
+{
+  "date": "20251015",
+  "formatted_date": "2025년 10월 15일",
+  "status": "success",
+  "courts": [
+    {
+      "court_name": "실내코트1",
+      "court_code": "01",
+      "place_code": "019",
+      "event_code": "039",
+      "time_slots": [],
+      "available_slots": 0,
+      "total_slots": 0,
+      "has_availability": false
+    },
+    {
+      "court_name": "실내코트2",
+      "court_code": "02",
+      "place_code": "019",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 2,
+      "total_slots": 2,
+      "has_availability": true
+    },
+    {
+      "court_name": "실내코트3",
+      "court_code": "03",
+      "place_code": "019",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 1,
+      "total_slots": 1,
+      "has_availability": true
+    },
+    {
+      "court_name": "실외코트4",
+      "court_code": "01",
+      "place_code": "022",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "06:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "12:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 4,
+      "total_slots": 4,
+      "has_availability": true
+    },
+    {
+      "court_name": "실외코트5",
+      "court_code": "02",
+      "place_code": "022",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "06:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "07:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "08:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "12:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 8,
+      "total_slots": 8,
+      "has_availability": true
+    },
+    {
+      "court_name": "실외코트6",
+      "court_code": "03",
+      "place_code": "022",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "12:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 4,
+      "total_slots": 4,
+      "has_availability": true
+    },
+    {
+      "court_name": "실외코트7",
+      "court_code": "04",
+      "place_code": "022",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "06:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "08:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "12:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 4,
+      "total_slots": 4,
+      "has_availability": true
+    },
+    {
+      "court_name": "실외코트8",
+      "court_code": "05",
+      "place_code": "022",
+      "event_code": "039",
+      "time_slots": [
+        {
+          "time": "06:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "19:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 2,
+      "total_slots": 2,
+      "has_availability": true
+    },
+    {
+      "court_name": "다락원축구장",
+      "court_code": "01",
+      "place_code": "021",
+      "event_code": "008",
+      "time_slots": [
+        {
+          "time": "06:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "07:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "08:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "12:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "price": "",
+          "status": "available"
+        }
+      ],
+      "available_slots": 10,
+      "total_slots": 10,
+      "has_availability": true
+    }
+  ],
+  "total_available_slots": 35,
+  "has_availability": true
+}

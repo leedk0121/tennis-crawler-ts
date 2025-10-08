@@ -1,0 +1,3071 @@
+[
+  {
+    "date": "20251001",
+    "formatted_date": "2025년 10월 01일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251002",
+    "formatted_date": "2025년 10월 02일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251003",
+    "formatted_date": "2025년 10월 03일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251004",
+    "formatted_date": "2025년 10월 04일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251005",
+    "formatted_date": "2025년 10월 05일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251006",
+    "formatted_date": "2025년 10월 06일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251007",
+    "formatted_date": "2025년 10월 07일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251008",
+    "formatted_date": "2025년 10월 08일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251009",
+    "formatted_date": "2025년 10월 09일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251010",
+    "formatted_date": "2025년 10월 10일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251011",
+    "formatted_date": "2025년 10월 11일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251012",
+    "formatted_date": "2025년 10월 12일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251013",
+    "formatted_date": "2025년 10월 13일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251014",
+    "formatted_date": "2025년 10월 14일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251015",
+    "formatted_date": "2025년 10월 15일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251016",
+    "formatted_date": "2025년 10월 16일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251017",
+    "formatted_date": "2025년 10월 17일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251018",
+    "formatted_date": "2025년 10월 18일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251019",
+    "formatted_date": "2025년 10월 19일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251020",
+    "formatted_date": "2025년 10월 20일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251021",
+    "formatted_date": "2025년 10월 21일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251022",
+    "formatted_date": "2025년 10월 22일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251023",
+    "formatted_date": "2025년 10월 23일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251024",
+    "formatted_date": "2025년 10월 24일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251025",
+    "formatted_date": "2025년 10월 25일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251026",
+    "formatted_date": "2025년 10월 26일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251027",
+    "formatted_date": "2025년 10월 27일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251028",
+    "formatted_date": "2025년 10월 28일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251029",
+    "formatted_date": "2025년 10월 29일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251030",
+    "formatted_date": "2025년 10월 30일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  },
+  {
+    "date": "20251031",
+    "formatted_date": "2025년 10월 31일",
+    "status": "success",
+    "courts": [
+      {
+        "court_name": "실내코트1",
+        "court_code": "01",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트2",
+        "court_code": "02",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실내코트3",
+        "court_code": "03",
+        "place_code": "019",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트4",
+        "court_code": "01",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트5",
+        "court_code": "02",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트6",
+        "court_code": "03",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트7",
+        "court_code": "04",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "실외코트8",
+        "court_code": "05",
+        "place_code": "022",
+        "event_code": "039",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      },
+      {
+        "court_name": "다락원축구장",
+        "court_code": "01",
+        "place_code": "021",
+        "event_code": "008",
+        "time_slots": [],
+        "available_slots": 0,
+        "total_slots": 0,
+        "has_availability": false
+      }
+    ],
+    "total_available_slots": 0,
+    "has_availability": false
+  }
+]
